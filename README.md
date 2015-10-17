@@ -15,6 +15,7 @@
 * [Documentation](http://docs.slimframework.com/)
 * [Support](http://help.slimframework.com/)
 * [Slim Blog](http://www.slimframework.com/blog)
+* [GitHub Repository](https://github.com/slimphp/Slim)
 
 
 ## Tutorials
