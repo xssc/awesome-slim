@@ -41,6 +41,7 @@
 
 
 ### Videos
+* [Setting Up A Slim 2 Project Structure](https://www.youtube.com/watch?v=NFeWo1cqxnM)
 * [Simple Blog with Slim 2](https://www.youtube.com/watch?v=sRfYgco3xo4)
 * [Slim Framework Simple Demo](https://www.youtube.com/watch?v=26CRc89gN10)
 * [Multiple HTTP Methods Using Slim](https://www.youtube.com/watch?v=81xFTpAvGA8)
