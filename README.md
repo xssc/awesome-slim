@@ -72,6 +72,9 @@
 * [Slim Views](https://github.com/slimphp/Slim-Views)
 * [Slim Middleware](https://github.com/slimphp/Slim-Middleware)
 * [Lassi](https://github.com/jabranr/lassi) - Boilerplate for quick projects using Slim Framework and Eloquent database
+* [Slim Test Helpers](https://github.com/there4/slim-test-helpers)
+* [Shady](https://github.com/laroo/Shady) - A set of middlewares
+* [Slim Whoops](https://github.com/zeuxisoo/php-slim-whoops)
 
 
 ## Miscellaneous
