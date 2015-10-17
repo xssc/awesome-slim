@@ -40,6 +40,11 @@
 ### Videos
 * [Simple Blog with Slim 2](https://www.youtube.com/watch?v=sRfYgco3xo4)
 * [Slim Framework Simple Demo](https://www.youtube.com/watch?v=26CRc89gN10)
+* [Multiple HTTP Methods Using Slim](https://www.youtube.com/watch?v=81xFTpAvGA8)
+* [Logging Messages Using Slim Framework](https://www.youtube.com/watch?v=dp96uv3CsdE)
+* [PHP Authentication Playlist Using Slim 2](https://www.youtube.com/playlist?list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34)
+* [Using Eloquent With Slim 2](https://www.youtube.com/watch?v=AcdzW1hBa7o&list=PLfdtiltiRHWGBvMo2Ajtd0achYwNM5VEV)
+* [URL Shortener API With Slim 2 Playlist](https://www.youtube.com/watch?v=rl9HZKPAZLc&list=PLfdtiltiRHWFVcpL0F6G-tuU3cj7xir7q)
 * [Slim Framework Tutorial Playlist](https://www.youtube.com/watch?v=fd1AFANiqzo&list=PLf46te__lS18Ibg78065Tr3GWVhwLOtzf) (Spanish)
 
 
