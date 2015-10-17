@@ -33,7 +33,8 @@
 * [Dependency Injection in Slim 2](http://akrabat.com/dependency-injection-in-slim-framework-2/)
 * [Redirecting in Slim 2 Middleware](http://akrabat.com/redirecting-in-slim-2-middleware/)
 * [Hello World on Slim 3](http://www.slideshare.net/rszrama/hello-world-on-slim-framework-3x)
-* [Creating a Flat -File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
+* [Creating a Flat-File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
+* [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers/)
 
 
 
