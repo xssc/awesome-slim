@@ -37,7 +37,7 @@
 * [Creating a Flat-File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
 * [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers/)
 * [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package/)
-
+* [OAuth Middleware for Slim](http://www.lornajane.net/posts/2013/oauth-middleware-for-slim)
 
 
 ### Videos
