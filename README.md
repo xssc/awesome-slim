@@ -34,3 +34,18 @@
 * [HTML Minify Middleware](https://github.com/christianklisch/slim-minify)
 * [Image Resize Middleware](https://github.com/tuupola/slim-image-resize)
 * [Route Localization Extensoin](https://github.com/SimoTod/slim-multilanguage) - Easy routes for different languages
+
+## Contributing
+Found an awesome package, blog, video etc.? Send me a pull request!
+
+#### Guidelines
+* Please make an individual pull request for each suggestion
+* Use the following format for links: \[Resource\]\(URL\)
+* Want to suggest a package? Read the [Contribution Guide](https://github.com/xssc/awesome-slim/blob/master/CONTRIBUTING.md)
+* New categories or improvements to the existing categorization are welcome
+
+## License
+
+Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
