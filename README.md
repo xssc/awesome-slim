@@ -18,8 +18,7 @@
 * [Creating a REST Web Service With Slim](http://www.ibm.com/developerworks/library/x-slim-rest/)
 * [Set Up Slim on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-slim-framework-on-ubuntu-14-04)
 * [Set Up Slim With Twig Templating](http://rottmann.net/2013/01/setting-up-slim-php-framework-with-twig-templating/)
-### Videos
-* [Simple Blog with Slim 2](https://www.youtube.com/watch?v=sRfYgco3xo4)
+* [Simple Blog with Slim 2](https://www.youtube.com/watch?v=sRfYgco3xo4) (video)
 
 ## Packages and Utilities
 * [Use Many Laravel Packages in Slim](https://github.com/itsgoingd/slim-services)
