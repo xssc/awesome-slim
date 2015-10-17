@@ -66,6 +66,7 @@
 * [Slim Flash](https://github.com/slimphp/Slim-Flash) - Flash messages
 * [Twig View](https://github.com/slimphp/Twig-View)
 * [Slim Views](https://github.com/slimphp/Slim-Views)
+* [Slim Middleware](https://github.com/slimphp/Slim-Middleware)
 * [Lassi](https://github.com/jabranr/lassi) - Boilerplate for quick projects using Slim Framework and Eloquent database
 
 
