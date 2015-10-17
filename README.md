@@ -35,6 +35,7 @@
 * [Hello World on Slim 3](http://www.slideshare.net/rszrama/hello-world-on-slim-framework-3x)
 * [Creating a Flat-File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
 * [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers/)
+* [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package/)
 
 
 
@@ -77,6 +78,8 @@
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton)
 * [Slime Framework Swag](slimframework.com/swag/)
 * [What's New in Slim 3?](http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
+* [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
+
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
