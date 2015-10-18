@@ -75,7 +75,7 @@
 * [Slim Test Helpers](https://github.com/there4/slim-test-helpers)
 * [Shady](https://github.com/laroo/Shady) - A set of middlewares
 * [Slim Whoops](https://github.com/zeuxisoo/php-slim-whoops)
-
+* [Slim OAuth2](https://github.com/chadicus/slim-oauth2) - OAuth2 routes, middleware and utilities
 
 ## Miscellaneous
 * [Cheat Sheet](https://andreiabohner.files.wordpress.com/2014/06/slim.pdf)
