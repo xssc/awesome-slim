@@ -7,6 +7,7 @@
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Packages and Middleware](#packages-and-middleware)
+- [Made With Slim](#made-with-slim)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
 
@@ -76,6 +77,19 @@
 * [Shady](https://github.com/laroo/Shady) - A set of middlewares
 * [Slim Whoops](https://github.com/zeuxisoo/php-slim-whoops)
 * [Slim OAuth2](https://github.com/chadicus/slim-oauth2) - OAuth2 routes, middleware and utilities
+* [Slim Blade](https://github.com/clickcoder/slim-blade)
+* [Slim Eloquent](https://github.com/kladd/slim-eloquent)
+* [Slim Jade](https://github.com/w33ble/slim-jade)
+
+
+## Made With Slim
+* [Slim Jim](https://github.com/jesalg/SlimJim) - A simple auto update script utilizing Slim
+* [Slim Blog](https://github.com/fdisotto/SlimBlog)
+* [User Frosting](https://github.com/alexweissman/UserFrosting) -A secure, modern user management system for PHP
+* [gifbase](http://gifbase.com/)
+* [i8url](https://i8url.com)
+* [More Made With Slim](http://help.slimframework.com/discussions/show-and-tell) - Slim show and tell
+
 
 ## Miscellaneous
 * [Cheat Sheet](https://andreiabohner.files.wordpress.com/2014/06/slim.pdf)
