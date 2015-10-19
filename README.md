@@ -80,6 +80,10 @@
 * [Slim Blade](https://github.com/clickcoder/slim-blade)
 * [Slim Eloquent](https://github.com/kladd/slim-eloquent)
 * [Slim Jade](https://github.com/w33ble/slim-jade)
+* [Slim Redis Cache](https://github.com/abouvier/slim-redis-cache)
+* [Slim Config YAML](https://github.com/techsterx/slim-config-yaml)
+* [Slim Access](https://github.com/abouvier/slim-access) - Access control middleware
+* [Session Redis Middleware](https://github.com/importlogic/slimphp-session-redis-middleware)
 
 
 ## Made With Slim
@@ -88,6 +92,10 @@
 * [User Frosting](https://github.com/alexweissman/UserFrosting) -A secure, modern user management system for PHP
 * [gifbase](http://gifbase.com/)
 * [i8url](https://i8url.com)
+* [Slim Image Archive](https://github.com/ksdev-pl/Slim-Image-Archive) - Simple, fast and secure archive for images
+* [Nesbot.com](https://github.com/briannesbitt/nesbot.com) - A personal blog
+* [Restful Bookmarks](https://github.com/erkobridee/restful-bookmarks-phpslim)
+* [Slim Bookshelf](https://github.com/akrabat/slim-bookshelf)
 * [More Made With Slim](http://help.slimframework.com/discussions/show-and-tell) - Slim show and tell
 
 
@@ -95,6 +103,7 @@
 * [Cheat Sheet](https://andreiabohner.files.wordpress.com/2014/06/slim.pdf)
 * [Slim Extras](https://github.com/codeguy/slim-extras) - resources that complement Slim
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton)
+* [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
 * [Slime Framework Swag](slimframework.com/swag/)
 * [What's New in Slim 3?](http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
 * [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
