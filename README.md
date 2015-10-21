@@ -17,6 +17,7 @@
 * [Support](http://help.slimframework.com/)
 * [Slim Blog](http://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
+* [Set up Slim With Your Webserver](http://www.slimframework.com/docs/start/web-servers.html)
 
 
 ## Tutorials
@@ -42,6 +43,8 @@
 * [Taming Slim 2.0](http://code.tutsplus.com/tutorials/taming-slim-20--net-30669)
 * [Working With Slim Middleware](http://www.sitepoint.com/working-with-slim-middleware/)
 * [Hello World With Slim 3.x](http://ryanszrama.com/blog/06-18-2015/hello-world-slim-framework-3x)
+* [Middleware Concepts](http://www.slimframework.com/docs/concepts/middleware.html)
+
 
 
 ### Videos
@@ -88,6 +91,8 @@
 * [Slim Config YAML](https://github.com/techsterx/slim-config-yaml)
 * [Slim Access](https://github.com/abouvier/slim-access) - Access control middleware
 * [Session Redis Middleware](https://github.com/importlogic/slimphp-session-redis-middleware)
+* [LESS CSS Middleware](https://github.com/hellogerard/less-slim-middleware)
+* [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware)
 
 
 ## Made With Slim
