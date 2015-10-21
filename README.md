@@ -40,6 +40,8 @@
 * [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package/)
 * [OAuth Middleware for Slim](http://www.lornajane.net/posts/2013/oauth-middleware-for-slim)
 * [Taming Slim 2.0](http://code.tutsplus.com/tutorials/taming-slim-20--net-30669)
+* [Working With Slim Middleware](http://www.sitepoint.com/working-with-slim-middleware/)
+* [Hello World With Slim 3.x](http://ryanszrama.com/blog/06-18-2015/hello-world-slim-framework-3x)
 
 
 ### Videos
