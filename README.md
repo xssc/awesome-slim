@@ -39,6 +39,7 @@
 * [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers/)
 * [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package/)
 * [OAuth Middleware for Slim](http://www.lornajane.net/posts/2013/oauth-middleware-for-slim)
+* [Taming Slim 2.0](http://code.tutsplus.com/tutorials/taming-slim-20--net-30669)
 
 
 ### Videos
@@ -50,6 +51,7 @@
 * [PHP Authentication Playlist Using Slim 2](https://www.youtube.com/playlist?list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34)
 * [Using Eloquent With Slim 2](https://www.youtube.com/watch?v=AcdzW1hBa7o&list=PLfdtiltiRHWGBvMo2Ajtd0achYwNM5VEV)
 * [URL Shortener API With Slim 2 Playlist](https://www.youtube.com/watch?v=rl9HZKPAZLc&list=PLfdtiltiRHWFVcpL0F6G-tuU3cj7xir7q)
+* [Slim PHP Microframework - Jeremy Kendall](https://www.youtube.com/watch?v=yEA0VWHCFac)
 * [Slim Framework Tutorial Playlist](https://www.youtube.com/watch?v=fd1AFANiqzo&list=PLf46te__lS18Ibg78065Tr3GWVhwLOtzf) (Spanish)
 
 
