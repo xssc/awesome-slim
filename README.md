@@ -93,6 +93,7 @@
 * [Session Redis Middleware](https://github.com/importlogic/slimphp-session-redis-middleware)
 * [LESS CSS Middleware](https://github.com/hellogerard/less-slim-middleware)
 * [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware)
+* [FigDice Slim Views](https://github.com/figdice/figdice-slim) - View Renderer for FigDice templates
 
 
 ## Made With Slim
