@@ -66,6 +66,7 @@
 * [Slim JSON API](https://github.com/entomb/slim-json-api)
 * [Slim Auth](https://github.com/jeremykendall/slim-auth)
 * [Slim Monolog](https://github.com/flynsarmy/Slim-Monolog)
+* [Slim 3 Monolog](https://github.com/projek-xyz/slim-monolog) - Monolog for Slim 3.x
 * [Slim Facades](https://github.com/itsgoingd/slim-facades) - A collection of facades for Slim
 * [Slim CSRF](https://github.com/slimphp/Slim-Csrf)
 * [Slim PDO](https://github.com/FaaPz/Slim-PDO)
@@ -94,6 +95,7 @@
 * [LESS CSS Middleware](https://github.com/hellogerard/less-slim-middleware)
 * [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware)
 * [FigDice Slim Views](https://github.com/figdice/figdice-slim) - View Renderer for FigDice templates
+* [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates View for Slim 3.x
 
 
 ## Made With Slim
