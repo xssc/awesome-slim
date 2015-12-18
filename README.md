@@ -32,6 +32,7 @@
 * [Accessing Services in Slim 3](http://akrabat.com/accessing-services-in-slim-3/)
 * [Using Zend\Config With a Slim App](http://akrabat.com/using-zendconfig-with-a-slim-application/)
 * [Logging Errors in Slim 3](http://akrabat.com/logging-errors-in-slim-3/)
+* [Removing the Pain of User Authorization with Sentinel (and Slim)](http://www.sitepoint.com/removing-the-pain-of-user-authorization-with-sentinel/)
 * [Routing to a Controller With Slim 2](http://akrabat.com/routing-to-a-controller-with-slim-framework-2/)
 * [Dependency Injection in Slim 2](http://akrabat.com/dependency-injection-in-slim-framework-2/)
 * [Redirecting in Slim 2 Middleware](http://akrabat.com/redirecting-in-slim-2-middleware/)
