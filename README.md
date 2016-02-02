@@ -13,7 +13,8 @@
 
 ## Essentials
 * [Slim Homepage](http://www.slimframework.com/)
-* [Documentation](http://docs.slimframework.com/)
+* [Documentation](http://www.slimframework.com/docs/) - Slim 3
+* [Documentation](http://docs.slimframework.com/) - Slim 2
 * [Support](http://help.slimframework.com/)
 * [Slim Blog](http://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
