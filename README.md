@@ -47,6 +47,9 @@
 * [Working With Slim Middleware](http://www.sitepoint.com/working-with-slim-middleware/)
 * [Hello World With Slim 3.x](http://ryanszrama.com/blog/06-18-2015/hello-world-slim-framework-3x)
 * [Middleware Concepts](http://www.slimframework.com/docs/concepts/middleware.html)
+* [Slimming down: An introduction to Slim](http://briward.com/articles/slimming-down/)
+* [Install Slim Framework 3](http://help.fortrabbit.com/install-slim-framework-3)
+* [Slim 3 Tutorial](https://blog.tamingtheelephpant.com/articles/slim-3-tutorial)
 
 
 
@@ -61,6 +64,7 @@
 * [URL Shortener API With Slim 2 Playlist](https://www.youtube.com/watch?v=rl9HZKPAZLc&list=PLfdtiltiRHWFVcpL0F6G-tuU3cj7xir7q)
 * [Slim PHP Microframework - Jeremy Kendall](https://www.youtube.com/watch?v=yEA0VWHCFac)
 * [Slim Framework Tutorial Playlist](https://www.youtube.com/watch?v=fd1AFANiqzo&list=PLf46te__lS18Ibg78065Tr3GWVhwLOtzf) (Spanish)
+* [Treehouse Slim Framework Tutorials](https://teamtreehouse.com/library/building-websites-with-php)
 
 
 ## Packages and Middleware
