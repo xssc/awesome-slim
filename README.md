@@ -126,7 +126,9 @@
 
 
 ## Contributing
-Found an awesome package, blog, video etc.? Send me a pull request! Just follow these guidelines:
+Found an awesome package, blog, video etc.? Send me a pull request! Just follow the guidelines
+
+#### Guidelines
 
 * Make sure what you are adding is not already on the list
 * Make a separate pull request for each addition
@@ -137,11 +139,6 @@ Found an awesome package, blog, video etc.? Send me a pull request! Just follow 
 * Feel free to create or improve a category
 * Make sure there is no trailing whitespace
 * Last, Make sure it is awesome!
-
-#### Guidelines
-* Please make an individual pull request for each suggestion
-* Use the following format for links: \[Resource\]\(URL\)
-* New categories or improvements to the existing categorization are welcome
 
 
 ## License
