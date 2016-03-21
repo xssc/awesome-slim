@@ -15,7 +15,7 @@
 * [Slim Homepage](http://www.slimframework.com/)
 * [Documentation](http://www.slimframework.com/docs/) - Slim 3
 * [Documentation](http://docs.slimframework.com/) - Slim 2
-* [Support](http://help.slimframework.com/)
+* [Support](http://discourse.slimframework.com)
 * [Slim Blog](http://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
 * [Set up Slim With Your Webserver](http://www.slimframework.com/docs/start/web-servers.html)
