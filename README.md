@@ -49,7 +49,7 @@
 * [Middleware Concepts](http://www.slimframework.com/docs/concepts/middleware.html)
 * [Slimming down: An introduction to Slim](http://briward.com/articles/slimming-down/)
 * [Install Slim Framework 3](http://help.fortrabbit.com/install-slim-framework-3)
-* [Slim 3 Tutorial](https://blog.tamingtheelephpant.com/articles/slim-3-tutorial)
+* [Slim 3 Tutorial](http://tamingtheelephpant.com/page/slim-3-tutorial)
 
 
 
