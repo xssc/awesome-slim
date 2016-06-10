@@ -50,6 +50,7 @@
 * [Slimming down: An introduction to Slim](http://briward.com/articles/slimming-down/)
 * [Install Slim Framework 3](http://help.fortrabbit.com/install-slim-framework-3)
 * [Slim 3 Tutorial](http://tamingtheelephpant.com/page/slim-3-tutorial)
+* [Paging with Slim Framework and Laravel Eloquent - PT_BR](http://www.raisiqueira.com/php/2016/05/20/paginacao-slim-framework.html)
 
 
 
