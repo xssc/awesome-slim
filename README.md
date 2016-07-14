@@ -105,7 +105,7 @@
 * [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware) - Doctrine handler middleware
 * [FigDice Slim Views](https://github.com/figdice/figdice-slim) - FigDice Templating library for Slim 3
 * [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates templating for Slim 3.x
-* [Aimeos e-commerce](https://github.com/aimeos/slimphp) - E-commerce package to create online shops with Slim (feature rich, high performance)
+* [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim (feature rich, high performance)
 
 
 ## Made With Slim
