@@ -129,6 +129,8 @@
 * [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
 * [Slim MVC App Boilerplate](https://github.com/jimfrenette/slim3-mvc) - A Slim 3 MVC app starter that includes a SQLite database
 * [Slim 3 App + PagSeguro Payment Gateway](https://github.com/raisiqueira/Slim-PagSeguro) - A Slim 3 App with PagSeguro Payment Gateway
+* [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole
+
 
 
 ## Contributing
