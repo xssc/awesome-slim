@@ -118,6 +118,7 @@
 * [Restful Bookmarks](https://github.com/erkobridee/restful-bookmarks-phpslim) - Web App to bookmark links
 * [Slim Bookshelf](https://github.com/akrabat/slim-bookshelf) - Keep a list of books
 * [More Made With Slim](http://help.slimframework.com/discussions/show-and-tell) - Slim show and tell
+* [Postleaf](https://github.com/Postleaf/postleaf) - simple, beautiful publishing - a modern PHP blogging platform.
 
 
 ## Miscellaneous
