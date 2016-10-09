@@ -75,6 +75,7 @@
 * [Slim Services](https://github.com/itsgoingd/slim-services) - A service manager that lets you use many Laravel packages in Slim
 * [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
 * [Slim Auth](https://github.com/jeremykendall/slim-auth) - Authentication for Slim
+* [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 JWT Authentication Middleware
 * [Slim Monolog](https://github.com/flynsarmy/Slim-Monolog) - Monolog support for Slim
 * [Slim Facades](https://github.com/itsgoingd/slim-facades) - A collection of facades for Slim
 * [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - CSRF protection middleware for Slim 3
