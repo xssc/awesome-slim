@@ -107,6 +107,7 @@
 * [FigDice Slim Views](https://github.com/figdice/figdice-slim) - FigDice Templating library for Slim 3
 * [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates templating for Slim 3.x
 * [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim 3 (feature rich, high performance)
+* [Slim Debugger Bar](https://github.com/runcmf/runtracy) - Tracy Debugger bar in Slim 3
 
 
 ## Made With Slim
