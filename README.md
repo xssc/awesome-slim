@@ -108,6 +108,7 @@
 * [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates templating for Slim 3.x
 * [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim 3 (feature rich, high performance)
 * [Slim Debugger Bar](https://github.com/runcmf/runtracy) - Tracy Debugger bar in Slim 3
+* [Slim Event Dispatcher](https://github.com/aneek/slim-event-dispatcher) - Event dispatcher package using League\Event for Slim 3 (Supports Event and Listeners creation)
 
 
 ## Made With Slim
