@@ -68,6 +68,7 @@
 * [Slim PHP Microframework - Jeremy Kendall](https://www.youtube.com/watch?v=yEA0VWHCFac)
 * [Slim Framework Tutorial Playlist](https://www.youtube.com/watch?v=fd1AFANiqzo&list=PLf46te__lS18Ibg78065Tr3GWVhwLOtzf) (Spanish)
 * [Treehouse Slim Framework Tutorials](https://teamtreehouse.com/library/building-websites-with-php)
+* [Intro to Slim Framework - Ed Finkler](https://www.youtube.com/watch?v=GBtrb_4ASKQ)
 
 
 ## Packages and Middleware
