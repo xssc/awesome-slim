@@ -1,6 +1,6 @@
 # Awesome Slim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome tutorials and other resources for the Slim micro framework
+> A curated list of awesome tutorials and other resources for the Slim micro framework.
 
 ## Table of Contents
 
@@ -71,75 +71,75 @@
 
 
 ## Packages and Middleware
-* [Slim Logger](https://github.com/codeguy/Slim-Logger) - A stand-alone logger class
-* [Slim Services](https://github.com/itsgoingd/slim-services) - A service manager that lets you use many Laravel packages in Slim
-* [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
-* [Slim Auth](https://github.com/jeremykendall/slim-auth) - Authentication for Slim
-* [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 JWT Authentication Middleware
-* [Slim Monolog](https://github.com/flynsarmy/Slim-Monolog) - Monolog support for Slim
-* [Slim Facades](https://github.com/itsgoingd/slim-facades) - A collection of facades for Slim
-* [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - CSRF protection middleware for Slim 3
-* [Slim PDO](https://github.com/FaaPz/Slim-PDO) - PDO database library for Slim
-* [Slim Multilanguage](https://github.com/SimoTod/slim-multilanguage) - Easy routes for different languages in Slim 2
-* [Slim Minify](https://github.com/christianklisch/slim-minify) - HTML minifier for Slim
-* [Slim Image Resize](https://github.com/tuupola/slim-image-resize) - Middleware for resizing images
-* [CORS Slim](https://github.com/palanik/CorsSlim) - Cross-Origin Resource Sharing (CORS) middleware
-* [Slim HTTP Cache](https://github.com/slimphp/Slim-HttpCache) - HTTP cache middleware and service provider
-* [PHP View](https://github.com/slimphp/PHP-View) - PHP renderer for Slim 3
-* [Slim Flash](https://github.com/slimphp/Slim-Flash) - Flash messages service provider for Slim 3
-* [Twig View](https://github.com/slimphp/Twig-View) - View layer built on top of Twig for Slim 3
-* [Slim Views](https://github.com/slimphp/Slim-Views) - Custom views for Slim
-* [Slim Middleware](https://github.com/slimphp/Slim-Middleware) - Optional middleware
-* [Lassi](https://github.com/jabranr/lassi) - Boilerplate for projects using Slim and Eloquent
-* [Slim Test Helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers
-* [Shady](https://github.com/laroo/Shady) - A set of middlewares for Slim 2
-* [Slim Whoops](https://github.com/zeuxisoo/php-slim-whoops) - Whoops errors on Slim
-* [Slim OAuth2](https://github.com/chadicus/slim-oauth2) - OAuth2 routes, middleware and utilities
-* [Slim Blade](https://github.com/clickcoder/slim-blade) - Laravel's Blade template engine for Slim
-* [Slim Eloquent](https://github.com/kladd/slim-eloquent) - Laravels's Eloquent for Slim
-* [Slim Jade](https://github.com/w33ble/slim-jade) - Jade template engine for Slim
-* [Slim Redis Cache](https://github.com/abouvier/slim-redis-cache) - Redis cache middleware
-* [Slim Config YAML](https://github.com/techsterx/slim-config-yaml) - Slim configuration using YAML files
-* [Slim Access](https://github.com/abouvier/slim-access) - Access control middleware
-* [Session Redis Middleware](https://github.com/importlogic/slimphp-session-redis-middleware) - Middleware to use Redis as a Session store
-* [LESS CSS Middleware](https://github.com/hellogerard/less-slim-middleware) - Middleware to compile LESS files on-the-fly
-* [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware) - Doctrine handler middleware
-* [FigDice Slim Views](https://github.com/figdice/figdice-slim) - FigDice Templating library for Slim 3
-* [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates templating for Slim 3.x
-* [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim 3 (feature rich, high performance)
-* [Slim Debugger Bar](https://github.com/runcmf/runtracy) - Tracy Debugger bar in Slim 3
+* [Slim Logger](https://github.com/codeguy/Slim-Logger) - Stand-alone logger class.
+* [Slim Services](https://github.com/itsgoingd/slim-services) - Service manager that lets you use many Laravel packages in Slim.
+* [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
+* [Slim Auth](https://github.com/jeremykendall/slim-auth) - Authentication for Slim.
+* [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 JWT Authentication Middleware.
+* [Slim Monolog](https://github.com/flynsarmy/Slim-Monolog) - Monolog support for Slim.
+* [Slim Facades](https://github.com/itsgoingd/slim-facades) - Collection of facades for Slim.
+* [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - CSRF protection middleware for Slim 3.
+* [Slim PDO](https://github.com/FaaPz/Slim-PDO) - PDO database library for Slim.
+* [Slim Multilanguage](https://github.com/SimoTod/slim-multilanguage) - Easy routes for different languages in Slim 2.
+* [Slim Minify](https://github.com/christianklisch/slim-minify) - HTML minifier for Slim.
+* [Slim Image Resize](https://github.com/tuupola/slim-image-resize) - Middleware for resizing images.
+* [CORS Slim](https://github.com/palanik/CorsSlim) - Cross-Origin Resource Sharing (CORS) middleware.
+* [Slim HTTP Cache](https://github.com/slimphp/Slim-HttpCache) - HTTP cache middleware and service provider.
+* [PHP View](https://github.com/slimphp/PHP-View) - PHP renderer for Slim 3.
+* [Slim Flash](https://github.com/slimphp/Slim-Flash) - Flash messages service provider for Slim 3.
+* [Twig View](https://github.com/slimphp/Twig-View) - View layer built on top of Twig for Slim 3.
+* [Slim Views](https://github.com/slimphp/Slim-Views) - Custom views for Slim.
+* [Slim Middleware](https://github.com/slimphp/Slim-Middleware) - Optional middleware.
+* [Lassi](https://github.com/jabranr/lassi) - Boilerplate for projects using Slim and Eloquent.
+* [Slim Test Helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers.
+* [Shady](https://github.com/laroo/Shady) - Set of middlewares for Slim 2
+* [Slim Whoops](https://github.com/zeuxisoo/php-slim-whoops) - Whoops errors on Slim.
+* [Slim OAuth2](https://github.com/chadicus/slim-oauth2) - OAuth2 routes, middleware and utilities.
+* [Slim Blade](https://github.com/clickcoder/slim-blade) - Laravel's Blade template engine for Slim.
+* [Slim Eloquent](https://github.com/kladd/slim-eloquent) - Laravels's Eloquent for Slim.
+* [Slim Jade](https://github.com/w33ble/slim-jade) - Jade template engine for Slim.
+* [Slim Redis Cache](https://github.com/abouvier/slim-redis-cache) - Redis cache middleware.
+* [Slim Config YAML](https://github.com/techsterx/slim-config-yaml) - Slim configuration using YAML files.
+* [Slim Access](https://github.com/abouvier/slim-access) - Access control middleware.
+* [Session Redis Middleware](https://github.com/importlogic/slimphp-session-redis-middleware) - Middleware to use Redis as a Session store.
+* [LESS CSS Middleware](https://github.com/hellogerard/less-slim-middleware) - Middleware to compile LESS files on-the-fly.
+* [Slim Doctrine Middleware](https://github.com/juliangut/slim-doctrine-middleware) - Doctrine handler middleware.
+* [FigDice Slim Views](https://github.com/figdice/figdice-slim) - FigDice Templating library for Slim 3.
+* [Slim 3 Plates](https://github.com/projek-xyz/slim-plates) - Plates templating for Slim 3.x.
+* [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim 3 (feature rich, high performance).
+* [Slim Debugger Bar](https://github.com/runcmf/runtracy) - Tracy Debugger bar in Slim 3.
 
 
 ## Made With Slim
-* [Slim Jim](https://github.com/jesalg/SlimJim) - A simple auto update script utilizing Slim
-* [Slim Blog](https://github.com/fdisotto/SlimBlog) - A Simple blog made with Slim
-* [User Frosting](https://github.com/alexweissman/UserFrosting) - A secure, modern user management system for PHP
-* [gifbase](http://gifbase.com/) - A GIF database that is tag searchable
-* [Slim Image Archive](https://github.com/ksdev-pl/Slim-Image-Archive) - Simple, fast and secure archive for images
-* [Nesbot.com](https://github.com/briannesbitt/nesbot.com) - A personal blog
-* [Restful Bookmarks](https://github.com/erkobridee/restful-bookmarks-phpslim) - Web App to bookmark links
-* [Slim Bookshelf](https://github.com/akrabat/slim-bookshelf) - Keep a list of books
-* [More Made With Slim](http://help.slimframework.com/discussions/show-and-tell) - Slim show and tell
+* [Slim Jim](https://github.com/jesalg/SlimJim) - Simple auto update script utilizing Slim.
+* [Slim Blog](https://github.com/fdisotto/SlimBlog) - Simple blog made with Slim.
+* [User Frosting](https://github.com/alexweissman/UserFrosting) - Secure, modern user management system for PHP.
+* [gifbase](http://gifbase.com/) - GIF database that is tag searchable.
+* [Slim Image Archive](https://github.com/ksdev-pl/Slim-Image-Archive) - Simple, fast and secure archive for images.
+* [Nesbot.com](https://github.com/briannesbitt/nesbot.com) - Personal blog.
+* [Restful Bookmarks](https://github.com/erkobridee/restful-bookmarks-phpslim) - Web App to bookmark links.
+* [Slim Bookshelf](https://github.com/akrabat/slim-bookshelf) - Keep a list of books.
+* [More Made With Slim](http://help.slimframework.com/discussions/show-and-tell) - Slim show and tell.
 * [Leafpub](https://github.com/Leafpub/leafpub) - Simple, beautiful, open source publishing. - a modern PHP blogging platform.
-* [devRant](https://www.devrant.io/) - A community plattform where developers can complain about their work
+* [devRant](https://www.devrant.io/) - Community plattform where developers can complain about their work.
 
 
 
 ## Miscellaneous
 * [Cheat Sheet](https://andreiabohner.files.wordpress.com/2014/06/slim.pdf)
-* [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for starting a Slim 3 app fast
-* [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
+* [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Skeleton for starting a Slim 3 app fast.
+* [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - Slim boilerplate.
 * [Slim Framework Swag](http://www.slimframework.com/swag/)
 * [What's New in Slim 3?](http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
 * [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
-* [Slim MVC App Boilerplate](https://github.com/jimfrenette/slim3-mvc) - A Slim 3 MVC app starter that includes a SQLite database
-* [Slim 3 App + PagSeguro Payment Gateway](https://github.com/raisiqueira/Slim-PagSeguro) - A Slim 3 App with PagSeguro Payment Gateway
-* [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole
+* [Slim MVC App Boilerplate](https://github.com/jimfrenette/slim3-mvc) - Slim 3 MVC app starter that includes a SQLite database.
+* [Slim 3 App + PagSeguro Payment Gateway](https://github.com/raisiqueira/Slim-PagSeguro) - Slim 3 App with PagSeguro Payment Gateway.
+* [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole.
 
 
 
 ## Contributing
-Found an awesome package, blog, video etc.? Send me a pull request! Just follow the guidelines
+Found an awesome package, blog, video etc.? Send me a pull request! Just follow the guidelines.
 
 #### Guidelines
 
