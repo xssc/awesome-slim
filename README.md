@@ -12,13 +12,13 @@
 - [Contributing](#contributing)
 
 ## Essentials
-* [Slim Homepage](http://www.slimframework.com/)
-* [Documentation](http://www.slimframework.com/docs/) - Slim 3
-* [Documentation](http://docs.slimframework.com/) - Slim 2
+* [Slim Homepage](https://www.slimframework.com/)
+* [Documentation](https://www.slimframework.com/docs/) - Slim 3
+* [Documentation](https://docs.slimframework.com/) - Slim 2
 * [Support](http://discourse.slimframework.com)
-* [Slim Blog](http://www.slimframework.com/blog)
+* [Slim Blog](https://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
-* [Set up Slim With Your Webserver](http://www.slimframework.com/docs/start/web-servers.html)
+* [Set up Slim With Your Webserver](https://www.slimframework.com/docs/start/web-servers.html)
 * [Slim Twitter](https://twitter.com/slimphp)
 
 
@@ -136,7 +136,7 @@
 * `[3.x]` [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for starting a Slim 3 app fast
 * `[2.x]` [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
 * [Slim Framework Swag](https://www.stickermule.com/user/1070648464/stickers)
-* `[3.x]` [What's New in Slim 3?](http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
+* `[3.x]` [What's New in Slim 3?](https://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
 * [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
 * `[3.x]` [Slim MVC App Boilerplate](https://github.com/jimfrenette/slim3-mvc) - A Slim 3 MVC app starter that includes a SQLite database
 * `[3.x]` [Slim 3 App + PagSeguro Payment Gateway](https://github.com/raisiqueira/Slim-PagSeguro) - A Slim 3 App with PagSeguro Payment Gateway
