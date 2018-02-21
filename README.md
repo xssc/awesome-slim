@@ -68,6 +68,7 @@
 * `[2.x]` [Slim PHP Microframework - Jeremy Kendall](https://www.youtube.com/watch?v=yEA0VWHCFac)
 * `[2.x]` [Slim Framework Tutorial Playlist](https://www.youtube.com/watch?v=fd1AFANiqzo&list=PLf46te__lS18Ibg78065Tr3GWVhwLOtzf) (Spanish)
 * `[2.x]` [Treehouse Slim Framework Tutorials](https://teamtreehouse.com/library/building-websites-with-php) - Paywalled
+* `[3.x]` [Beautiful Slim 3 CSRF Protection](https://www.youtube.com/watch?v=GHa2XBAx7WU)
 
 
 ## Packages and Middleware
