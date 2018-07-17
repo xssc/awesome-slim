@@ -113,6 +113,14 @@
 * `[3.x]` [Slim Event Dispatcher](https://github.com/aneek/slim-event-dispatcher) - Event dispatcher package using League\Event for Slim 3
 
 
+## Boilerplates
+* `[3.x]` [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for starting a Slim 3 app fast
+* `[2.x]` [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
+* `[3.x]` [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole
+* `[3.x]` [Slim 3 Boilerplate MVC](https://github.com/zhiephie/boilerplate-slim3) - Boilerplate MVC for Slim 3
+* `[3.x]` [Gracili](https://github.com/D4rkmindz/Gracili) - Slim Application Template
+
+
 ## Made With Slim
 * [Slim Jim](https://github.com/jesalg/SlimJim) - A simple auto update script utilizing Slim
 * [Slim Blog](https://github.com/fdisotto/SlimBlog) - A Simple blog made with Slim
@@ -130,19 +138,13 @@
 * [typemill](http://typemill.net) - A simple flat file cms build with slim and twig.
 
 
-
 ## Miscellaneous
 * `[2.x]` [Cheat Sheet](https://andreiabohner.files.wordpress.com/2014/06/slim.pdf)
-* `[3.x]` [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for starting a Slim 3 app fast
-* `[2.x]` [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
 * [Slim Framework Swag](https://www.stickermule.com/user/1070648464/stickers)
 * `[3.x]` [What's New in Slim 3?](https://www.slimframework.com/2015/02/11/whats-up-with-version-3.html)
 * [More Awesome PHP Stuff](https://github.com/ziadoz/awesome-php)
 * `[3.x]` [Slim MVC App Boilerplate](https://github.com/jimfrenette/slim3-mvc) - A Slim 3 MVC app starter that includes a SQLite database
 * `[3.x]` [Slim 3 App + PagSeguro Payment Gateway](https://github.com/raisiqueira/Slim-PagSeguro) - A Slim 3 App with PagSeguro Payment Gateway
-* `[3.x]` [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole
-* `[3.x]` [Slim 3 Boilerplate MVC](https://github.com/zhiephie/boilerplate-slim3) - Boilerplate MVC for Slim 3
-
 
 
 ## Contributing
