@@ -48,7 +48,6 @@
 * `[3.x]` [Hello World With Slim 3.x](http://ryanszrama.com/blog/06-18-2015/hello-world-slim-framework-3x)
 * `[3.x]` [Middleware Concepts](http://www.slimframework.com/docs/concepts/middleware.html)
 * `[3.x]` [Slimming down: An introduction to Slim](http://briward.com/articles/slimming-down/)
-* `[3.x]` [Install Slim Framework 3](http://help.fortrabbit.com/install-slim-framework-3)
 * `[3.x]` [Slim 3 Tutorial](http://tamingtheelephpant.com/page/slim-3-tutorial)
 * `[2.x]` [Paging with Slim Framework and Laravel Eloquent](http://www.raisiqueira.com/php/2016/05/20/paginacao-slim-framework.html) - Portugese/Brasil
 
