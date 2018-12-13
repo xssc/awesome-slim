@@ -15,43 +15,38 @@
 * [Slim Homepage](https://www.slimframework.com/)
 * [Documentation](https://www.slimframework.com/docs/) - Slim 3
 * [Documentation](https://docs.slimframework.com/) - Slim 2
-* [Support](http://discourse.slimframework.com)
+* [Support](https://discourse.slimframework.com)
 * [Slim Blog](https://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
-* [Set up Slim With Your Webserver](https://www.slimframework.com/docs/start/web-servers.html)
+* [Set up Slim With Your Webserver](https://www.slimframework.com/docs/v3/start/web-servers.html)
 * [Slim Twitter](https://twitter.com/slimphp)
 
 
 ## Tutorials
 
 ### Written
-* `[2.x]` [Creating a REST Web Service With Slim](http://www.ibm.com/developerworks/library/x-slim-rest/)
+* `[2.x]` [Creating a REST Web Service With Slim](https://www.ibm.com/developerworks/library/x-slim-rest/)
 * `[2.x]` [Set Up Slim on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-slim-framework-on-ubuntu-14-04) - Outdated
 * `[2.x]` [Set Up Slim With Twig Templating](http://rottmann.net/2013/01/setting-up-slim-php-framework-with-twig-templating/)
-* `[3.x]` [Slim CSRF with Slim 3](http://akrabat.com/slim-csrf-with-slim-3/)
-* `[3.x]` [Using Abstract Factories With Slim 3](http://akrabat.com/using-abstract-factories-with-slim-3/)
-* `[3.x]` [Improved Error Handling in Slim 3](http://akrabat.com/improved-error-handling-in-slim-3/)
-* `[3.x]` [Accessing Services in Slim 3](http://akrabat.com/accessing-services-in-slim-3/)
-* `[2.x]` [Using Zend\Config With a Slim App](http://akrabat.com/using-zendconfig-with-a-slim-application/)
-* `[3.x]` [Logging Errors in Slim 3](http://akrabat.com/logging-errors-in-slim-3/)
-* `[2.x]` [Removing the Pain of User Authorization with Sentinel (and Slim)](http://www.sitepoint.com/removing-the-pain-of-user-authorization-with-sentinel/)
-* `[2.x]` [Routing to a Controller With Slim 2](http://akrabat.com/routing-to-a-controller-with-slim-framework-2/)
-* `[2.x]` [Dependency Injection in Slim 2](http://akrabat.com/dependency-injection-in-slim-framework-2/)
-* `[2.x]` [Redirecting in Slim 2 Middleware](http://akrabat.com/redirecting-in-slim-2-middleware/)
-* `[3.x]` [Hello World on Slim 3](http://www.slideshare.net/rszrama/hello-world-on-slim-framework-3x)
-* `[2.x]` [Creating a Flat-File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
+* `[3.x]` [Slim CSRF with Slim 3](https://akrabat.com/slim-csrf-with-slim-3/)
+* `[3.x]` [Using Abstract Factories With Slim 3](https://akrabat.com/using-abstract-factories-with-slim-3/)
+* `[3.x]` [Improved Error Handling in Slim 3](https://akrabat.com/improved-error-handling-in-slim-3/)
+* `[3.x]` [Accessing Services in Slim 3](https://akrabat.com/accessing-services-in-slim-3/)
+* `[2.x]` [Using Zend\Config With a Slim App](https://akrabat.com/using-zendconfig-with-a-slim-application/)
+* `[3.x]` [Logging Errors in Slim 3](https://akrabat.com/logging-errors-in-slim-3/)
+* `[2.x]` [Removing the Pain of User Authorization with Sentinel (and Slim)](https://www.sitepoint.com/removing-the-pain-of-user-authorization-with-sentinel/)
+* `[2.x]` [Routing to a Controller With Slim 2](https://akrabat.com/routing-to-a-controller-with-slim-framework-2/)
+* `[2.x]` [Dependency Injection in Slim 2](https://akrabat.com/dependency-injection-in-slim-framework-2/)
+* `[2.x]` [Redirecting in Slim 2 Middleware](https://akrabat.com/redirecting-in-slim-2-middleware/)
+* `[3.x]` [Hello World on Slim 3](https://www.slideshare.net/rszrama/hello-world-on-slim-framework-3x)
 * `[2.x]` [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers)
 * `[2.x]` [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package)
-* `[2.x]` [OAuth Middleware for Slim](http://www.lornajane.net/posts/2013/oauth-middleware-for-slim)
-* `[2.x]` [Taming Slim 2.0](http://code.tutsplus.com/tutorials/taming-slim-20--net-30669)
-* `[2.x]` [Working With Slim Middleware](http://www.sitepoint.com/working-with-slim-middleware/)
+* `[2.x]` [OAuth Middleware for Slim](https://lornajane.net/posts/2013/oauth-middleware-for-slim)
+* `[2.x]` [Taming Slim 2.0](https://code.tutsplus.com/tutorials/taming-slim-20--net-30669)
+* `[2.x]` [Working With Slim Middleware](https://www.sitepoint.com/working-with-slim-middleware/)
 * `[3.x]` [Hello World With Slim 3.x](http://ryanszrama.com/blog/06-18-2015/hello-world-slim-framework-3x)
-* `[3.x]` [Middleware Concepts](http://www.slimframework.com/docs/concepts/middleware.html)
-* `[3.x]` [Slimming down: An introduction to Slim](http://briward.com/articles/slimming-down/)
-* `[3.x]` [Install Slim Framework 3](http://help.fortrabbit.com/install-slim-framework-3)
-* `[3.x]` [Slim 3 Tutorial](http://tamingtheelephpant.com/page/slim-3-tutorial)
-* `[2.x]` [Paging with Slim Framework and Laravel Eloquent](http://www.raisiqueira.com/php/2016/05/20/paginacao-slim-framework.html) - Portugese/Brasil
-
+* `[3.x]` [Middleware Concepts](https://www.slimframework.com/docs/v3/concepts/middleware.html)
+* `[3.x]` [Slimming down: An introduction to Slim](https://briward.com/articles/slimming-down/)
 
 
 ### Videos
