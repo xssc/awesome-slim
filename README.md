@@ -39,6 +39,8 @@
 * `[2.x]` [Dependency Injection in Slim 2](http://akrabat.com/dependency-injection-in-slim-framework-2/)
 * `[2.x]` [Redirecting in Slim 2 Middleware](http://akrabat.com/redirecting-in-slim-2-middleware/)
 * `[3.x]` [Hello World on Slim 3](http://www.slideshare.net/rszrama/hello-world-on-slim-framework-3x)
+* `[3.x]` [How to build a RESTful API in Slim 3 – Part 1: Application setup](https://fisayoafolayan.com/blog/how-to-build-a-restful-api-in-slim-3-part-1/)
+* `[3.x]` [How to build a RESTful API in Slim 3 – Part 2: Creating application endpoints](https://fisayoafolayan.com/blog/how-to-build-a-restful-api-in-slim-3-part-2/)
 * `[2.x]` [Creating a Flat-File Blog Engine Using Slim](http://code.tutsplus.com/tutorials/creating-a-flat-file-blog-engine-using-slim--net-25303)
 * `[2.x]` [How to Use Multiple View Parsers](http://thoughts.silentworks.co.uk/slim-php-101-how-to-use-multiple-view-parsers)
 * `[2.x]` [Using Laravel Config Package in Slim](http://thoughts.silentworks.co.uk/slim-php-101-using-laravel-config-package)
