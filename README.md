@@ -13,6 +13,7 @@
 
 ## Essentials
 * [Slim Homepage](https://www.slimframework.com/)
+* [Documentation](http://www.slimframework.com/docs/v4/) - Slim 4
 * [Documentation](https://www.slimframework.com/docs/) - Slim 3
 * [Documentation](https://docs.slimframework.com/) - Slim 2
 * [Support](http://discourse.slimframework.com)
@@ -73,6 +74,7 @@
 
 
 ## Packages and Middleware
+* `[4.X]` [Slim Session](https://github.com/bryanjhv/slim-session) - A very simple session middleware for Slim Framework 2/3/4.
 * `[2.x]` [Slim Logger](https://github.com/codeguy/Slim-Logger) - A stand-alone logger class
 * `[2.x]` [Slim Services](https://github.com/itsgoingd/slim-services) - A service manager that lets you use many Laravel packages in Slim
 * `[2.x]` [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
@@ -114,6 +116,9 @@
 
 
 ## Boilerplates
+* `[4.x]` [API skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application
+* `[4.x]` [Nathanael’s MVC skeleton](https://github.com/semhoun/slim-skeleton-mvc) - Slim 4 MVC Skeleton
+* `[4.x]` [Adrian’s MVC skeleton](https://github.com/adriansuter/Slim4-Skeleton) - Web application skeleton that uses the Slim4 Framework, PHP-DI, Nyholm PSR7 and Twig.
 * `[3.x]` [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for starting a Slim 3 app fast
 * `[2.x]` [PHP Rocker](https://github.com/victorjonsson/PHP-Rocker) - A Slim boilerplate
 * `[3.x]` [Slim 3 MVC Skeleton With Swoole](https://github.com/kcloze/slim-swoole) - Slim with swoole
