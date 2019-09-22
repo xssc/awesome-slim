@@ -13,12 +13,13 @@
 
 ## Essentials
 * [Slim Homepage](https://www.slimframework.com/)
-* [Documentation](https://www.slimframework.com/docs/) - Slim 3
+* [Documentation](https://www.slimframework.com/docs/v4/) - Slim 4
+* [Documentation](https://www.slimframework.com/docs/v3/) - Slim 3
 * [Documentation](https://docs.slimframework.com/) - Slim 2
 * [Support](http://discourse.slimframework.com)
 * [Slim Blog](https://www.slimframework.com/blog)
 * [GitHub Repository](https://github.com/slimphp/Slim)
-* [Set up Slim With Your Webserver](https://www.slimframework.com/docs/start/web-servers.html)
+* [Set up Slim With Your Webserver](https://www.slimframework.com/docs/v4/start/web-servers.html)
 * [Slim Twitter](https://twitter.com/slimphp)
 
 
