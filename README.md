@@ -136,6 +136,7 @@
 * [Leafpub](https://github.com/Leafpub/leafpub) - Simple, beautiful, open source publishing. - a modern PHP blogging platform.
 * [devRant](https://www.devrant.io/) - A community plattform where developers can complain about their work
 * [typemill](http://typemill.net) - A simple flat file cms build with slim and twig.
+* [Flextype](https://flextype.org) - The freedom of a headless CMS with the full functionality of a traditional CMS.
 
 
 ## Miscellaneous
