@@ -111,6 +111,7 @@
 * `[3.x]` [Aimeos e-commerce](https://github.com/aimeos/aimeos-slim) - E-commerce package to create online shops with Slim 3 (feature rich, high performance)
 * `[3.x]` [Slim Debugger Bar](https://github.com/runcmf/runtracy) - Tracy Debugger bar in Slim 3
 * `[3.x]` [Slim Event Dispatcher](https://github.com/aneek/slim-event-dispatcher) - Event dispatcher package using League\Event for Slim 3
+* `[4.x]` [Slim Guard](https://github.com/Guard-Core/slim-guard) - Slim 4 middleware for IP filtering, rate limiting with automatic bans and attack pattern detection
 
 
 ## Boilerplates
